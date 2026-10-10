@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="starscream000 — mobile, backend and automation" />
+<img src="./header.svg" width="100%" alt="starscream000 — mobile, backend and automation" />
 
 <br/><br/>
 
