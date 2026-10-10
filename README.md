@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=155&color=0:0D1117,50:111827,100:1F6FEB&text=starscream000&fontColor=E6EDF3&fontSize=40&fontAlignY=50" width="100%" alt="starscream000" />
+<img src="assets/header.png" width="100%" alt="starscream000 — glass-inspired developer header" />
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-starscream000-161B22?style=flat-square&logo=github&logoColor=C9D1D9)](https://github.com/starscream000)
 ![PICT](https://img.shields.io/badge/PICT-IT%20'24-161B22?style=flat-square)
-![TIAA](https://img.shields.io/badge/Experience-QA%20Automation-161B22?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-161B22?style=flat-square)
 
 </div>
 
@@ -14,13 +14,14 @@
 
 ### Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,spring,nodejs,js,ts,angular,postgres,prisma,mongodb,playwright,jenkins,docker,git&theme=dark&perline=8" alt="Technology stack" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,spring,nodejs,js,ts,angular,postgres,prisma,mongodb,playwright,jenkins,docker,git&theme=dark&perline=8" alt="Technology stack" />
+
+</div>
 
 <details>
 <summary><b>Technologies & tools</b></summary>
-<br/>
 
 - **Mobile:** Flutter, Dart, BLoC, Provider, Kotlin, Jetpack Compose
 - **Backend:** Node.js, Express, Java, Spring Boot, REST APIs, JWT
@@ -39,6 +40,6 @@
 
 <br/>
 
-<sub>B.E. Information Technology · PICT Pune, 2024</sub>
+<sub>B.E. Information Technology · PICT Pune, 2024 · QA Automation experience at TIAA</sub>
 
 </div>
