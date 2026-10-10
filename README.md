@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=180&section=header&text=starscream000&fontSize=46&fontColor=EAF4FF&fontAlignY=50&color=0:050A14,35:0B1D36,70:123F70,100:050A14&stroke=42C8FF&strokeWidth=0.6&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=blur&height=190&color=0:050914,18:0A2340,38:1467A8,52:62D9FF,64:174A86,82:0A1B32,100:050914&text=starscream000&fontColor=EAF6FF&fontSize=48&fontAlignY=48&desc=MOBILE%20%20%E2%80%A2%20%20BACKEND%20%20%E2%80%A2%20%20AUTOMATION&descSize=13&descAlignY=73&animation=twinkling"
   width="100%"
   alt="starscream000"
 />
@@ -10,13 +10,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-starscream000-0D1117?style=flat-square&logo=github&logoColor=C9D1D9)](https://github.com/starscream000)
 ![PICT](https://img.shields.io/badge/PICT-IT%20'24-0D1117?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Software%20Engineering-0D1117?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-QA%20Automation-0D1117?style=flat-square)
 
 </div>
 
 ---
-
-### Stack
 
 <div align="center">
 
