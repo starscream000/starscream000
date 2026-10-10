@@ -1,193 +1,199 @@
-# Harsh Waghmare
+<!--
+  HARSH WAGHMARE — GitHub Profile README
+  Drop this README.md into a repository named exactly after your GitHub username.
+  Keep assets/harsh-portfolio.png alongside it, or replace the banner URL below.
+-->
 
-### Software Engineer · Mobile & Backend Development · QA Automation
+<div align="center">
 
-Building software across the stack — from mobile interfaces and backend services to automated testing infrastructure.
+<img src="./assets/harsh-portfolio.png" alt="Harsh Waghmare — Software Engineer, Builder, Explorer" width="100%" />
 
-I'm a Computer Engineer from **Pune Institute of Computer Technology (PICT), Pune**, with professional experience in QA automation and a broader software development background spanning Flutter, JavaScript, backend engineering, databases, and modern application architecture.
+<br />
 
-I enjoy understanding how systems work end to end: designing the interface, structuring the backend, modelling the data, integrating services, and making sure everything works reliably.
+<a href="https://github.com/Harsh23122002"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/BASE-Software%20Engineering-0ea5e9?style=for-the-badge" alt="Software Engineering" />
+<img src="https://img.shields.io/badge/MODE-Build%20%7C%20Break%20%7C%20Improve-7c3aed?style=for-the-badge" alt="Build Break Improve" />
 
-- **Education:** B.E. in Information Technology, PICT Pune (2024)
-- **Professional experience:** QA Automation at TIAA
-- **Interests:** Software engineering, mobile development, backend systems, developer tooling, automation, and system design
-- **Currently exploring:** Kotlin, Jetpack Compose, Spring Boot, and AI-assisted development workflows
+<br /><br />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer+%2F+Builder;Mobile+%C2%B7+Backend+%C2%B7+Automation;Turning+ideas+into+working+systems;Curious+about+the+whole+stack." alt="Typing SVG" /></a>
+
+</div>
 
 ---
 
-## Tech Stack
+## `whoami`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,spring,nodejs,express,js,ts,angular,html,css,postgres,mongodb,mysql,prisma,git,github,jenkins,docker,linux,vscode&perline=8" alt="Technology stack" />
-</p>
+```text
+Harsh Waghmare
+├── Software engineer by training       → PICT, Pune · B.E. IT · 2024
+├── Quality engineering                 → QA automation at TIAA
+├── Mobile                              → Flutter, Dart, BLoC, Provider
+├── Backend                             → Node.js, Express, Java, Spring Boot
+├── Data                                → PostgreSQL, Prisma, MongoDB, Mongoose
+├── Automation                          → Playwright, Robot Framework, Jest, Jenkins
+└── Always exploring                    → Kotlin, Jetpack Compose, MCP, system design
+```
 
-### Languages
-- JavaScript
-- TypeScript
-- Dart
-- Java
-- Kotlin
-- C++
+I like working across boundaries: the UI people touch, the APIs behind it, the data model underneath, and the automation that keeps the whole thing dependable. I’m interested in **building complete products**, not just collecting frameworks.
 
-### Mobile & Frontend Development
-- Flutter
-- BLoC and Provider state management
-- Kotlin and Jetpack Compose
-- Angular
-- Responsive UI development
-- Platform channels and native integrations
-- Background processing and isolated execution in Flutter
+> `Think in systems. Build with intent. Automate the boring parts.`
 
-### Backend & APIs
-- Node.js and Express.js
-- REST API design and implementation
-- Java and Spring Boot
-- Authentication and authorization
-- JWT-based authentication
-- Backend service architecture
-- API integration and request validation
+## `./stack --visual`
 
-### Databases & Data Modelling
-- PostgreSQL
-- MongoDB
-- MySQL
-- Prisma ORM
-- Mongoose
-- Relational schema design
-- Database migrations and entity relationships
+<div align="center">
 
-### Quality Engineering & Automation
-- Playwright
+<img src="https://skillicons.dev/icons?i=js,ts,dart,java,kotlin,cpp,flutter,androidstudio,spring,nodejs,express,angular,postgres,mongodb,mysql,prisma,git,github,jenkins,docker,linux,vscode&perline=11" alt="Technologies and tools" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` — Build interfaces
+
+- Flutter & Dart
+- BLoC / Provider state management
+- Kotlin & Jetpack Compose exploration
+- Angular & TypeScript
+- Native integrations and platform channels
+- Background work and isolated execution in Flutter
+
+</td>
+<td width="50%" valign="top">
+
+### `02` — Build services
+
+- Node.js & Express
+- Java & Spring Boot
+- REST API design
+- JWT authentication and Spring Security
+- PostgreSQL, Prisma & database migrations
+- MongoDB & Mongoose
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03` — Make software dependable
+
+- Playwright browser automation
 - Robot Framework
 - Jest
 - Salesforce QA automation
 - Copado CRT
-- CI/CD integration with Jenkins
-- End-to-end and regression testing
-- Test automation design and maintenance
+- Jenkins / CI pipelines
+- Regression and end-to-end testing
 
-### Developer Tools & Infrastructure
-- Git and GitHub
-- Docker
-- Jenkins
-- ffmpeg / ffprobe
-- PowerShell and scripting
-- Windows and Linux development environments
-- Model Context Protocol (MCP) and LLM-integrated tooling exploration
+</td>
+<td width="50%" valign="top">
 
----
+### `04` — Make work flow
 
-## Featured Projects
+- Git & GitHub
+- PowerShell and Excel VBA automation
+- ffmpeg / ffprobe metadata extraction
+- Docker and development environments
+- LLM + MCP workflow exploration
+- Windows and Linux systems
 
-### 01. NOW — Narrative Oriented Workflow
+</td>
+</tr>
+</table>
 
-**A personal productivity framework designed around what matters now.**
+## `projects/` — things I want to make real
 
-NOW is a product concept exploring a more contextual and human-centric approach to personal computing. The idea is to turn tasks, thoughts, intentions, and contextual information into an actionable interface rather than another disconnected productivity app.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Core ideas**
-- An Android launcher built with Kotlin and Jetpack Compose.
-- A task-oriented home screen with dynamically updated information.
-- A persistent view of current priorities and active tasks.
-- Contextual reminders and lightweight personal logging.
-- A Node.js backend with PostgreSQL and Prisma for synchronisation and structured data.
-- An experimental LoRa-enabled hardware companion, the NOW Orb, for lightweight task interaction in connectivity-constrained environments.
+<h3>◈ NOW</h3>
+<strong>A personal computing layer built around what matters now.</strong>
 
-**Technologies:** Kotlin · Jetpack Compose · Node.js · PostgreSQL · Prisma · ESP32 · LoRa
+A Kotlin launcher concept that turns the home screen into a living view of tasks and priorities, with a Node.js backend and an experimental LoRa/ESP32 companion device.
 
-*Focus: Product architecture, mobile engineering, hardware–software integration, and human-centred computing.*
+`Kotlin` `Jetpack Compose` `Node.js` `PostgreSQL` `Prisma` `ESP32` `LoRa`
 
----
+<a href="#now-project-notes">↓ Project notes</a>
 
-### 02. SchoolNest — School Learning Platform
+</td>
+<td width="50%" valign="top">
 
-**A school-oriented learning application with a structured practice workflow.**
+<h3>◈ SchoolNest</h3>
+<strong>A structured learning and question-practice platform.</strong>
 
-SchoolNest is an application project focused on building a backend and mobile experience for school-level learning and question practice.
+A Flutter client and Spring Boot backend, with student authentication, school and academic-year relationships, subject → unit → topic navigation, practice sets, and question attempts.
 
-**Planned application flow**
-- Student registration and login.
-- JWT-based authentication.
-- Subject, unit, and topic hierarchies.
-- Practice sets and question attempts.
-- Structured academic-year and school relationships.
-- A Flutter interface for browsing subjects and attempting questions.
+`Flutter` `Java` `Spring Boot` `PostgreSQL` `JWT`
 
-**Technologies:** Java · Spring Boot · Spring Security · PostgreSQL · Neon · Flutter · JWT
+<a href="#schoolnest-project-notes">↓ Project notes</a>
 
-*Focus: REST API development, authentication, relational data modelling, and full-stack application design.*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+<h3>◈ QA Automation Lab</h3>
+<strong>Less repetitive testing. More reliable releases.</strong>
 
-### 03. QA Automation & Test Engineering
+Exploring browser automation, regression workflows, CI integration, and how LLMs/MCP could improve test authoring and developer tooling.
 
-**Reliable software through maintainable, repeatable automated tests.**
+`Playwright` `Robot Framework` `Jest` `Jenkins` `MCP`
 
-My professional QA automation experience at TIAA has involved working in a Salesforce product environment and exploring automated testing workflows across browser automation and testing infrastructure.
+</td>
+<td width="50%" valign="top">
 
-**Areas of work and technical interest**
-- Browser automation with Playwright.
-- Keyword-driven automation using Robot Framework.
-- Salesforce testing workflows and Copado CRT.
-- Test execution, regression coverage, and maintainable automation.
-- CI/CD integration and automated test execution with Jenkins.
-- Exploring ways to integrate LLMs and MCP into developer and testing workflows.
+<h3>◈ Workflow Utilities</h3>
+<strong>Small tools that remove annoying manual work.</strong>
 
-**Technologies:** Playwright · Robot Framework · Jest · Salesforce · Copado CRT · Jenkins · JavaScript / TypeScript
+Scripts to inventory course videos, extract durations and metadata, and synchronise structured progress information with Excel.
 
-*Focus: Test architecture, quality engineering, automation reliability, and developer productivity.*
+`PowerShell` `ffprobe` `Excel VBA`
 
----
+</td>
+</tr>
+</table>
 
-### 04. Developer Utilities & Workflow Automation
+### NOW — project notes
 
-**Small tools that eliminate repetitive work.**
+The bigger idea: **a calmer, more intentional interface between a person and their digital life.** The launcher is the surface; tasks and logs are the primitives; synchronisation and a low-connectivity hardware companion are experiments around the edges. This is a product direction, not a claim that every component is already shipped.
 
-I also explore scripting and automation to improve everyday development workflows.
+### SchoolNest — project notes
 
-Examples include:
-- PowerShell-based media inventory automation.
-- Extracting video metadata and durations using ffprobe.
-- Synchronising course-video inventories with Excel.
-- Automating repetitive desktop and development tasks.
-- Exploring integrations between local tools and AI-assisted workflows.
+The focus is end-to-end application design: modelling relationships cleanly, securing APIs, and connecting the backend to a practical mobile workflow. Current architecture exploration includes Spring Security, JWT, PostgreSQL, and a Flutter practice experience.
 
-**Technologies:** PowerShell · Python · ffmpeg / ffprobe · Excel VBA · Node.js
+## `currently_running()`
 
----
+```yaml
+learning:
+  - Kotlin + Jetpack Compose
+  - Java + Spring Boot
+  - System design and core CS
+exploring:
+  - LLM-assisted developer tooling
+  - Model Context Protocol (MCP)
+  - Better test automation workflows
+building:
+  - NOW: a human-centric launcher/productivity concept
+  - SchoolNest: a school learning application
+```
 
-## Engineering Interests
+## `outside_the_terminal/`
 
-Beyond individual frameworks, I'm interested in the underlying engineering decisions that make software maintainable and useful.
+Motorcycles. Photography. Mountains and long roads. Music that can go from ambient and post-rock to festival-era EDM. An unreasonable appreciation for thoughtful interfaces — especially the Aero era of Windows Vista / Windows 7.
 
-- **Application architecture:** State management, separation of concerns, modularity, and API boundaries.
-- **Backend engineering:** Authentication, data modelling, service design, and database integration.
-- **Mobile engineering:** Cross-platform development, native integrations, background execution, and UI architecture.
-- **Quality engineering:** Reliable test suites, regression prevention, and CI/CD.
-- **Developer tooling:** Automation, scripting, and reducing repetitive engineering work.
-- **Systems thinking:** Understanding the complete flow from user interaction to application logic, services, and persistent storage.
-- **AI-assisted development:** Integrating LLMs and MCP into practical engineering workflows.
+I care about technology that **feels useful, intentional, and characterful**, not just technology that is newer.
 
 ---
 
-## Currently Learning & Exploring
+<div align="center">
 
-- Kotlin and Jetpack Compose for native Android development.
-- Java and Spring Boot for backend application development.
-- Backend architecture, database design, and API security.
-- LLM-integrated developer tools and automation.
-- System design, algorithms, and core computer science.
+### `BUILD → EXPLORE → LEARN → REPEAT`
 
----
+*Better tools. Calmer days. Bigger ideas.*
 
-## Connect
+<a href="https://github.com/Harsh23122002?tab=repositories">Explore my repositories ↗</a>
 
-<p align="left">
-  <a href="https://github.com/Harsh23122002">
-    <img src="https://img.shields.io/badge/GitHub-Harsh23122002-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-</p>
-
----
-
-*Software engineering is not just about making individual components work. It's about making the entire system work together.*
+</div>
