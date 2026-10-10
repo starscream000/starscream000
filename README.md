@@ -6,7 +6,6 @@
 
 <div align="center">
 
-<img src="./assets/harsh-portfolio.png" alt="Harsh Waghmare — Software Engineer, Builder, Explorer" width="100%" />
 
 <br />
 
