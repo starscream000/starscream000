@@ -8,9 +8,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-starscream000-0D1117?style=flat-square&logo=github&logoColor=C9D1D9)](https://github.com/starscream000)
+![Experience](https://img.shields.io/badge/Experience-SDET-0D1117?style=flat-square)
 ![PICT](https://img.shields.io/badge/PICT-IT%20'24-0D1117?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-QA%20Automation-0D1117?style=flat-square)
 
 </div>
 
