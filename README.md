@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:050914,22:0A2A52,42:1B7FCC,52:7FE3FF,62:1B7FCC,80:0A2340,100:050914&text=starscream000&fontColor=EAF6FF&fontSize=52&fontAlignY=46&desc=MOBILE%20%20%E2%80%A2%20%20BACKEND%20%20%E2%80%A2%20%20AUTOMATION&descSize=13&descAlignY=69&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:050914,22:0A2A52,42:1B7FCC,52:7FE3FF,62:1B7FCC,80:0A2340,100:050914&text=starscream000&fontColor=EAF6FF&fontSize=52&fontAlignY=46&animation=fadeIn"
   width="100%"
   alt="starscream000"
 />
