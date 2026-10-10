@@ -6,9 +6,6 @@
 
 <div align="center">
 
-
-<br />
-
 <a href="https://github.com/Harsh23122002"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/BASE-Software%20Engineering-0ea5e9?style=for-the-badge" alt="Software Engineering" />
 <img src="https://img.shields.io/badge/MODE-Build%20%7C%20Break%20%7C%20Improve-7c3aed?style=for-the-badge" alt="Build Break Improve" />
@@ -193,6 +190,6 @@ I care about technology that **feels useful, intentional, and characterful**, no
 
 *Better tools. Calmer days. Bigger ideas.*
 
-<a href="https://github.com/Harsh23122002?tab=repositories">Explore my repositories ↗</a>
+<a href="https://github.com/starscream000?tab=repositories">Explore my repositories ↗</a>
 
 </div>
