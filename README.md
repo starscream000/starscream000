@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,spring,nodejs,js,ts,angular,postgres,.net,mongodb,playwright,jenkins,docker,git&theme=dark&perline=8" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,spring,nodejs,js,ts,angular,postgres,mongodb,playwright,jenkins,docker,git&theme=dark&perline=8" alt="Technology stack" />
 
 </div>
 
