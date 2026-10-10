@@ -1,195 +1,208 @@
-<!--
-  HARSH WAGHMARE — GitHub Profile README
-  Drop this README.md into a repository named exactly after your GitHub username.
-  Keep assets/harsh-portfolio.png alongside it, or replace the banner URL below.
--->
-
 <div align="center">
-
-<a href="https://github.com/Harsh23122002"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/BASE-Software%20Engineering-0ea5e9?style=for-the-badge" alt="Software Engineering" />
-<img src="https://img.shields.io/badge/MODE-Build%20%7C%20Break%20%7C%20Improve-7c3aed?style=for-the-badge" alt="Build Break Improve" />
-
-<br /><br />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Software+Engineer+%2F+Builder;Mobile+%C2%B7+Backend+%C2%B7+Automation;Turning+ideas+into+working+systems;Curious+about+the+whole+stack." alt="Typing SVG" /></a>
-
-</div>
-
----
-
-## `whoami`
 
 ```text
-Harsh Waghmare
-├── Software engineer by training       → PICT, Pune · B.E. IT · 2024
-├── Quality engineering                 → QA automation at TIAA
-├── Mobile                              → Flutter, Dart, BLoC, Provider
-├── Backend                             → Node.js, Express, Java, Spring Boot
-├── Data                                → PostgreSQL, Prisma, MongoDB, Mongoose
-├── Automation                          → Playwright, Robot Framework, Jest, Jenkins
-└── Always exploring                    → Kotlin, Jetpack Compose, MCP, system design
+╔══════════════════════════════════════════════════════════════════════╗
+║  S T A R S C R E A M  /  0 0 0                                    ║
+║  SOFTWARE ENGINEER  ·  SYSTEMS BUILDER  ·  AUTOMATION               ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-I like working across boundaries: the UI people touch, the APIs behind it, the data model underneath, and the automation that keeps the whole thing dependable. I’m interested in **building complete products**, not just collecting frameworks.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+things+that+actually+work.;Mobile+apps+%2F+Backend+systems+%2F+Automation;Curiosity+is+the+runtime.;Currently%3A+turning+ideas+into+systems." alt="Typing SVG" />
+</a>
 
-> `Think in systems. Build with intent. Automate the boring parts.`
+<br/>
 
-## `./stack --visual`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,dart,java,kotlin,cpp,flutter,androidstudio,spring,nodejs,express,angular,postgres,mongodb,mysql,prisma,git,github,jenkins,docker,linux,vscode&perline=11" alt="Technologies and tools" />
+[![GitHub](https://img.shields.io/badge/GitHub-starscream000-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/starscream000)
+![Focus](https://img.shields.io/badge/FOCUS-ENGINEERING-161b22?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-161b22?style=flat-square&labelColor=0d1117)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` — Build interfaces
-
-- Flutter & Dart
-- BLoC / Provider state management
-- Kotlin & Jetpack Compose exploration
-- Angular & TypeScript
-- Native integrations and platform channels
-- Background work and isolated execution in Flutter
-
-</td>
-<td width="50%" valign="top">
-
-### `02` — Build services
-
-- Node.js & Express
-- Java & Spring Boot
-- REST API design
-- JWT authentication and Spring Security
-- PostgreSQL, Prisma & database migrations
-- MongoDB & Mongoose
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `03` — Make software dependable
-
-- Playwright browser automation
-- Robot Framework
-- Jest
-- Salesforce QA automation
-- Copado CRT
-- Jenkins / CI pipelines
-- Regression and end-to-end testing
-
-</td>
-<td width="50%" valign="top">
-
-### `04` — Make work flow
-
-- Git & GitHub
-- PowerShell and Excel VBA automation
-- ffmpeg / ffprobe metadata extraction
-- Docker and development environments
-- LLM + MCP workflow exploration
-- Windows and Linux systems
-
-</td>
-</tr>
-</table>
-
-## `projects/` — things I want to make real
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ NOW</h3>
-<strong>A personal computing layer built around what matters now.</strong>
-
-A Kotlin launcher concept that turns the home screen into a living view of tasks and priorities, with a Node.js backend and an experimental LoRa/ESP32 companion device.
-
-`Kotlin` `Jetpack Compose` `Node.js` `PostgreSQL` `Prisma` `ESP32` `LoRa`
-
-<a href="#now-project-notes">↓ Project notes</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>◈ SchoolNest</h3>
-<strong>A structured learning and question-practice platform.</strong>
-
-A Flutter client and Spring Boot backend, with student authentication, school and academic-year relationships, subject → unit → topic navigation, practice sets, and question attempts.
-
-`Flutter` `Java` `Spring Boot` `PostgreSQL` `JWT`
-
-<a href="#schoolnest-project-notes">↓ Project notes</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ QA Automation Lab</h3>
-<strong>Less repetitive testing. More reliable releases.</strong>
-
-Exploring browser automation, regression workflows, CI integration, and how LLMs/MCP could improve test authoring and developer tooling.
-
-`Playwright` `Robot Framework` `Jest` `Jenkins` `MCP`
-
-</td>
-<td width="50%" valign="top">
-
-<h3>◈ Workflow Utilities</h3>
-<strong>Small tools that remove annoying manual work.</strong>
-
-Scripts to inventory course videos, extract durations and metadata, and synchronise structured progress information with Excel.
-
-`PowerShell` `ffprobe` `Excel VBA`
-
-</td>
-</tr>
-</table>
-
-### NOW — project notes
-
-The bigger idea: **a calmer, more intentional interface between a person and their digital life.** The launcher is the surface; tasks and logs are the primitives; synchronisation and a low-connectivity hardware companion are experiments around the edges. This is a product direction, not a claim that every component is already shipped.
-
-### SchoolNest — project notes
-
-The focus is end-to-end application design: modelling relationships cleanly, securing APIs, and connecting the backend to a practical mobile workflow. Current architecture exploration includes Spring Security, JWT, PostgreSQL, and a Flutter practice experience.
-
-## `currently_running()`
+---
 
 ```yaml
-learning:
-  - Kotlin + Jetpack Compose
-  - Java + Spring Boot
-  - System design and core CS
-exploring:
-  - LLM-assisted developer tooling
-  - Model Context Protocol (MCP)
-  - Better test automation workflows
-building:
-  - NOW: a human-centric launcher/productivity concept
-  - SchoolNest: a school learning application
+identity:
+  name: Harsh Waghmare
+  role: Software Engineer
+  education: B.E. Information Technology — PICT, Pune ('24)
+  experience: QA Automation — TIAA
+  operating_mode: understand the system, then build the system
 ```
 
-## `outside_the_terminal/`
+## `01 / ABOUT`
 
-Motorcycles. Photography. Mountains and long roads. Music that can go from ambient and post-rock to festival-era EDM. An unreasonable appreciation for thoughtful interfaces — especially the Aero era of Windows Vista / Windows 7.
+I like software from both sides of the boundary: **building the product** and **making sure it survives contact with reality**.
 
-I care about technology that **feels useful, intentional, and characterful**, not just technology that is newer.
+My experience spans mobile development, backend APIs, data modelling, and QA automation. I move between application code, test infrastructure, and the tooling that makes engineering less repetitive.
+
+I’m especially interested in the *whole system* — how the interface, API, database, automation, and real-world constraints fit together.
+
+> Not collecting frameworks. Learning how to make systems behave.
+
+## `02 / LOADOUT`
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>Open the full inventory</b></summary>
+
+| Domain | Tools & concepts |
+|---|---|
+| **Mobile** | Flutter, Dart, BLoC, Provider, platform channels, background work, isolates |
+| **Android** | Kotlin, Jetpack Compose — actively exploring |
+| **Frontend** | Angular, TypeScript, JavaScript, HTML, CSS |
+| **Backend** | Node.js, Express, Java, Spring Boot, REST APIs |
+| **Data** | PostgreSQL, Prisma, MongoDB, Mongoose, MySQL, relational modelling, migrations |
+| **Quality engineering** | Playwright, Robot Framework, Jest, Salesforce testing, Copado CRT |
+| **Delivery & tooling** | Jenkins, Git, GitHub, Docker, PowerShell, Excel VBA, ffmpeg/ffprobe |
+| **Engineering topics** | JWT authentication, API design, CI/CD, test architecture, system design |
+| **Exploration** | LLM-assisted workflows, Model Context Protocol (MCP), ESP32, LoRa |
+
+</details>
+
+## `03 / PROJECTS IN THE HANGAR`
+
+> Concepts and work-in-progress are labelled honestly. The repo links below point to your profile until you replace them with the individual repositories.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ NOW
+**A personal computing interface, not another task list.**
+
+A productivity concept built around the idea of seeing what matters *now*: a task-first Android launcher, a glanceable home screen, and a lightweight hardware companion.
+
+- Kotlin + Jetpack Compose launcher
+- Node.js backend, PostgreSQL + Prisma
+- Dynamic task-oriented interface
+- Experimental ESP32 / LoRa companion
+
+`KOTLIN` `ANDROID` `NODE.JS` `POSTGRES` `ESP32`
+
+[↗ Explore repositories](https://github.com/starscream000?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ SCHOOLNEST
+**A structured practice platform for school learning.**
+
+A school-learning application concept with a Flutter client and Spring Boot backend.
+
+- Student registration and login
+- JWT-based authentication
+- School, academic-year, subject, unit, and topic modelling
+- Practice sets and question attempts
+- PostgreSQL-backed data layer
+
+`FLUTTER` `SPRING BOOT` `JWT` `POSTGRESQL`
+
+[↗ Explore repositories](https://github.com/starscream000?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ TEST SYSTEMS
+**Automation that earns its place in the pipeline.**
+
+Professional experience and technical work around test automation in a Salesforce product environment.
+
+- Browser automation with Playwright
+- Robot Framework and Jest
+- Salesforce / Copado CRT workflows
+- Regression testing and CI/CD with Jenkins
+- Exploring LLM + MCP-assisted test workflows
+
+`PLAYWRIGHT` `ROBOT` `JEST` `JENKINS`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ SMALL TOOLS, BIG LEVERAGE
+**Remove the repetitive part. Keep the useful part.**
+
+Workflow automation experiments for organising learning material and local development tasks.
+
+- Scan nested folders for course videos
+- Extract durations and metadata with ffprobe
+- Generate structured inventories
+- Connect PowerShell automation to Excel/VBA workflows
+
+`POWERSHELL` `FFMPEG` `EXCEL VBA`
+
+</td>
+</tr>
+</table>
+
+## `04 / CURRENT THREADS`
+
+```text
+[ exploring ]  Kotlin + Jetpack Compose
+[ building  ]  NOW — launcher / personal workflow system
+[ building  ]  SchoolNest — mobile + backend
+[ deepening ]  Java, Spring Boot, API security, data modelling
+[ exploring ]  LLMs + MCP for useful engineering automation
+[ studying  ]  Core CS, algorithms, and system design
+```
+
+## `05 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<a href="https://github.com/starscream000">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=starscream000&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/starscream000">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starscream000&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages" />
+</a>
+
+</div>
+
+<div align="center">
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=starscream000&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=F0F6FC&area=true&hide_border=true)](https://github.com/starscream000)
+
+</div>
+
+## `06 / OUTSIDE THE REPO`
+
+Motorcycles. Photography. Long rides. Music that can turn a routine evening into a whole atmosphere. Hardware, operating systems, and interfaces with a little more character than the default setting.
+
+I care about technology that feels *considered* — not just newer for the sake of being newer.
 
 ---
 
 <div align="center">
 
-### `BUILD → EXPLORE → LEARN → REPEAT`
+```text
+BUILD WITH INTENT  /  AUTOMATE THE BORING  /  STAY CURIOUS
+```
 
-*Better tools. Calmer days. Bigger ideas.*
-
-<a href="https://github.com/starscream000?tab=repositories">Explore my repositories ↗</a>
+<sub>Designed in Pune · Maintained by Harsh · Powered by curiosity</sub>
 
 </div>
