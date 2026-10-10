@@ -8,7 +8,7 @@
 
 <br/>
 
-![Experience](https://img.shields.io/badge/Experience-SDET%40%TIAA-0D1117?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-SDET%40TIAA-0D1117?style=flat-square)
 ![PICT](https://img.shields.io/badge/PICT-IT%20'24-0D1117?style=flat-square)
 
 </div>
