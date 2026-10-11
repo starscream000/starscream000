@@ -11,6 +11,11 @@
 ![Experience](https://img.shields.io/badge/Experience-SDET%40TIAA-0D1117?style=flat-square)
 ![PICT](https://img.shields.io/badge/PICT-IT%20'24-0D1117?style=flat-square)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-animation-dark.svg" />
+  <img alt="starscream000's Contribution Animation" src="github-contribution-animation.svg" />
+</picture>
+
 </div>
 
 ---
