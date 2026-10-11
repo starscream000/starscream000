@@ -38,7 +38,7 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=starscream000&bg_color=00000000&color=9DA7B3&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&hide_title=true" alt="Contributions over the last month" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=starscream000&bg_color=00000000&color=9DA7B3&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=true&hide_title=true" alt="GitHub Activity Graph" />
 
 <br/>
 
