@@ -19,15 +19,6 @@
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,spring,nodejs,js,ts,angular,postgres,mongodb,jenkins,docker,git&theme=dark&perline=7" alt="Technology stack" />
 
-<br/><br/>
-
-<b>Mobile</b> &nbsp; Flutter · Dart · BLoC · Provider · Kotlin · Jetpack Compose<br/>
-<b>Backend</b> &nbsp; Node.js · Express · Java · Spring Boot · REST APIs · JWT<br/>
-<b>Data</b> &nbsp; PostgreSQL · Prisma · MongoDB · Mongoose · MySQL<br/>
-<b>Quality engineering</b> &nbsp; Playwright · Robot Framework · Jest · Salesforce testing · Copado CRT<br/>
-<b>Tooling</b> &nbsp; Jenkins · Git · Docker · PowerShell · Excel VBA · ffmpeg / ffprobe<br/>
-<b>Exploring</b> &nbsp; LLM workflows · MCP · ESP32 · LoRa
-
 </div>
 
 ---
