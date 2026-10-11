@@ -6,11 +6,6 @@
   alt="starscream000"
 />
 
-<br/>
-
-![Experience](https://img.shields.io/badge/Experience-SDET%40TIAA-0D1117?style=flat-square)
-![PICT](https://img.shields.io/badge/PICT-IT%20'24-0D1117?style=flat-square)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/starscream000-contribution-animation-dark.svg" />
   <img alt="starscream000's Contribution Animation" src="./assets/starscream000-contribution-animation.svg" />
