@@ -13,16 +13,8 @@
   <img alt="starscream000's Contribution Animation" src="./assets/starscream000-contribution-animation.svg" />
 </picture> -->
 
-</div>
-
----
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,spring,nodejs,js,ts,angular,postgres,mongodb,jenkins,docker,git&theme=dark&perline=7" alt="Technology stack" />
-
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,spring,nodejs,js,ts,angular,postgres,mongodb,jenkins,docker,git&theme=dark" alt="Technology Stack" />
+  </marquee>
 </div>
-
----
-
-
